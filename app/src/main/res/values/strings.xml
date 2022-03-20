@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_name">Enter Name</string>
+
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="welcome_home">Welcome HOME</string>
+    <string name="button">Button</string>
+
+    <string name="login">Login</string>
+    <string name="enter_password_login">Enter Password</string>
+    <string name="Login" />
+    <string name="Register" />
+</resources>
